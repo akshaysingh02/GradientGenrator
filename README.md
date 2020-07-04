@@ -1,2 +1,2 @@
 # GradientGenrator
-Using this page you can create linear gradient with ease and get the text value to copy use it anywhere
+Using this WebApp you can create linear gradient and also generate random linear gradient for your different designing purposes.
