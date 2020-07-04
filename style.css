@@ -5,7 +5,7 @@ body{
     letter-spacing: .5em;
     text-transform: uppercase;
     top: 15%;
-    background: linear-gradient(to right,rgba(33, 175, 152, 0.452),rgb(145, 228, 78));
+    background: linear-gradient(to right, rgb(135, 180, 192), rgb(221, 164, 101));
 }
 h1{
     font: 600 3.5em 'Raleway',sans-serif;
@@ -24,11 +24,15 @@ h3{
 }
 
 
-.ranbtn{
-  color: rgb(255, 255, 255);
-  background: #6868686b;
+button{
+    color: #fff;
+  /* color: rgb(255, 255, 255); */
+  /* background: #6868686b; */
   padding: 10px;
-  border-radius: 20px;
+  /* border-radius: 20px; */
   border-style: hidden;
   outline: none;
+
+border-radius: 49px;
+background: linear-gradient(to right, rgb(135, 180, 192), rgb(221, 164, 101));
 }
