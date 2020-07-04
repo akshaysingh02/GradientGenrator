@@ -26,13 +26,9 @@ h3{
 
 button{
     color: #fff;
-  /* color: rgb(255, 255, 255); */
-  /* background: #6868686b; */
-  padding: 10px;
-  /* border-radius: 20px; */
-  border-style: hidden;
-  outline: none;
-
-border-radius: 49px;
-background: linear-gradient(to right, rgb(135, 180, 192), rgb(221, 164, 101));
+    padding: 10px;
+    border-style: hidden;
+    outline: none;
+    border-radius: 49px;
+    background: linear-gradient(to right, rgb(135, 180, 192), rgb(221, 164, 101));
 }
